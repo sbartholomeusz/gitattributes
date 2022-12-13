@@ -1,0 +1,4 @@
+# set default behaviour
+*         text=auto
+
+*.vim     text eol=lf
